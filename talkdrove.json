@@ -1,14 +1,14 @@
 {
-    "bot-name": "SHABAN-MD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
-    "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
+    "bot-name": "SALEEM-MD",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Saleem V1",
+    "logo": "https://ibb.co/svY7sSyF",
     "keywords": ["bot"],
     "documentation-link": "https://pti-pair.onrender.com/",
     "owner-verification": "talkdrovelover@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with SALEEM-MD~  or get session id from here,  https://pti-pair.onrender.com/",
         "value":"",
         "required": true
         
@@ -24,7 +24,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝚂ʜᴀʙᴀɴ-ᴍᴅ-𝚆.𝙰 𝙱𝙾𝚃"
+      "value": "SALEEM-MD-𝚆.𝙰 𝙱𝙾𝚃"
     }, 
       
     "PREFIX": {
@@ -87,27 +87,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝑺𝒉𝒂𝒃𝒂𝒏 𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*SALEEM-MD 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "SALEEM-MD"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923022147740"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "SALEEM-MD"
 
       }, 
 
@@ -127,7 +127,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sʜᴀʙᴀɴ*"
+      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ SALEEM-MD*"
     },
 
       "DELETE_LINKS": {
@@ -144,7 +144,9 @@
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": true,
+      "required": true,z,s,,ss
+ss,,s
+ss,s,ss
       "value": "false"
     },
 
@@ -191,4 +193,4 @@
       "value": "false"
     }
   }
-}
+    }
